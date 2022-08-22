@@ -1,1 +1,0 @@
-/home/nachthammer/repos/c/hello_rust/rust/target/debug/libsorts.a: /home/nachthammer/repos/c/hello_rust/rust/../merge.h /home/nachthammer/repos/c/hello_rust/rust/bindings/bindings.rs /home/nachthammer/repos/c/hello_rust/rust/build.rs /home/nachthammer/repos/c/hello_rust/rust/src/lib.rs /home/nachthammer/repos/c/hello_rust/rust/src/sorts/merge_sort_mod.rs
