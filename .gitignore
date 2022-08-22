@@ -1,0 +1,5 @@
+# generated libraries or output files
+*.o
+*.so
+*.d
+*.a
