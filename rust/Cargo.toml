@@ -1,0 +1,14 @@
+[package]
+name = "sorts"
+version = "0.1.0"
+authors = ["Alexander Berkov <alexandervonberkov1@gmail.com>"]
+
+[lib]
+name = "sorts"
+crate-type = ["staticlib", "cdylib"]
+
+[dependencies]
+libc = "*"
+
+[build-dependencies]
+bindgen = "0.53.1"
